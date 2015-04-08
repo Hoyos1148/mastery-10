@@ -1,0 +1,11 @@
+#include <iostream>
+using namespace std;
+int main()
+{
+	int N, n, suma;
+	cout<<"Dame un numero"<<endl;
+	cin>>N;
+	cout<<"DAme otro numero"<<endl;
+	cin>>n;
+	cout<<"El resultado es: "<< n + N <<endl;
+}
